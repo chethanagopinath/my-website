@@ -1,3 +1,17 @@
 h1, p {
-  font-family: Lato;
+  font-family: 'GT America Extended',sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h1{
+  font-size: 60px;
+}
+
+body{
+  background-color: black;
+}
+
+.sub-div{
+  padding: 10px;
 }
