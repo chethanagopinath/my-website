@@ -1,21 +1,63 @@
-h1, p {
-  font-family: 'GT America Extended',sans-serif;
-  color: white;
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900|Work+Sans:300" rel="stylesheet');
+
+
+h1 {
+  font-family: Montserrat;
+  color: #F03F35;
   text-align: center;
 }
 
 p{
   font-size: 25px;
+  line-height: 40px;
+  text-align: center;
+  margin: 10px 0;
+  color: #f03f35;
 }
 
-h1{
-  font-size: 55px;
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 900;
+ font-size: 55px;
 }
 
 body{
-  background-color: black;
+  background-color: #B7E3E4;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
 }
 
 .sub-div{
-  padding: 10px;
+  padding: 20px;
+}
+
+.social-container {
+  padding: 25px 50px;
+  align-content: center;
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform:translateY(-3px);
+}
+
+a.dev{
+  color:blue;
+}
+a.linkedin{
+  color:#0077B5;
+}
+
+
+a.github{
+  color:black;
+}
+
+a.wordpress{
+  color: #444140;
 }
