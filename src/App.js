@@ -7,9 +7,20 @@ export default function App() {
     <div classname="main-div">
       <div classname="sub-div">
         <h1 id='name-header'>Hello, I'm Chethana</h1>
-        <p>I am a graduate student pursuing a masters degree in Computer Science from SUNY Binghamton. I have both academic and industry experience in CS of about 8 years in Computer Science in both software development and testing. My skills include Ruby, Rails, Python, Java, Javascript, HTML, CSS, MySQL and Git. I have also had industry experience in automated testing at Wolters Kluwer ELM Solutions. I've worked with clients like Walmart, JPMorgan Chase, Nissan and NCR.
+        <p>
+        I am a CS grad student at SUNY Binghamton, an aspiring software engineer, a problem-solver and a baker. My skills include Ruby, Rails, Python, Java, Javascript, HTML, CSS, MySQL and Git. I have had industry experience in automated testing using Selenium, a bit of Java and Cucumber at Wolters Kluwer ELM Solutions where I worked with clients like Walmart, JPMorgan Chase, Nissan and NCR.
         </p>
-        <p>I am a budding open source contributor at shf-project from AgileVentures, ifme project etc which have beginner-friendly issues for me to build up the confidence to contribute more (waiting eagerly for HacktoberFest!) I am also part of Breaking Barriers in Tech, a very nurturing and inclusive community which aims to combat obstacles faced by minorities in tech. We are building a strong unified community through informative workshops, fun events etc. I am also a registered mentor at the mentorship program at LotusSTEMM, an organization that is working to provide a networking and leadership platform for South Asian women in Science, Technology, Engineering, Math and Medicine (hence, STEMM). Also, my GitHub - https://github.com/chethanagopinath/ where I build cool things during my free time. Currently, I'm working on building my website and a cool Chrome extension.
+        <p>
+        Being a budding open-source contributor, I spend my weekends working on beginner-friendly issues in shf-project from AgileVentures, ifme project and other repositories on GitHub which allow me to build up the confidence to contribute more (waiting eagerly for HacktoberFest!) 
+        </p>
+        <p>
+        I am a member of Breaking Barriers in Tech(enter link tree/linkedin url), a very nurturing and inclusive community which aims to combat obstacles faced by minorities in tech. We are building a strong unified community through informative workshops, fun events and such. I am also a registered mentor at the mentorship program at LotusSTEMM(enter URL), an organization that is working to provide a networking and leadership platform for South Asian women in Science, Technology, Engineering, Math and Medicine (hence, STEMM). 
+        </p>
+        <p>
+        During my free time, I work on cool side projects to solve problems that I face every day. Currently, I am working on building a Chrome extension called TinyNotes, which is a basic note-taking app that would stay on my new tab window built using Javascript, HTML and CSS. I have also recently joined as a volunteer at Women Who Code in their Python track(https://www.womenwhocode.com/python) to help with slack channel moderation and event coordination. I try to add value to young aspiring software engineers such as myself by writing out tiny technical posts at dev.to(enter URL), which is an incredibly talented community that I came across some time ago.
+        </p>
+        <p>
+        Please do check out my socials below if you are interested in knowing more about me and thank you for visiting my website! Take care and stay healthy!
         </p>
         <SocialFollow />
       </div>
