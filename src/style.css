@@ -3,16 +3,16 @@
 
 h1 {
   font-family: Montserrat;
-  color: #F03F35;
+  /* color: #F03F35; */
   text-align: center;
 }
 
 p{
   font-size: 25px;
-  line-height: 40px;
+  line-height: 35px;
   text-align: center;
   margin: 10px 0;
-  color: #f03f35;
+  /* color: #f03f35; */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,7 +22,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body{
-  background-color: #B7E3E4;
+  /* background-color: #B7E3E4; */
+  background-color: #fce1e0;
   font-family: 'Work Sans', sans-serif;
   font-weight: 300;
 }
