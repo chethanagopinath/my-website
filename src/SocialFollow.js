@@ -9,6 +9,10 @@ import {
   faWordpressSimple
 } from "@fortawesome/free-brands-svg-icons";
 
+import{
+  faEnvelope
+} from "@fortawesome/fontawesome-free-solid";
+
 export default function SocialFollow() {
   return (
     <div class="social-container">
@@ -28,10 +32,17 @@ export default function SocialFollow() {
         <FontAwesomeIcon icon={faDev} size="2x" />
       </a>
 
+      <a href="mailto:cgopina1@binghamton.edu"
+      className="email social">
+        <FontAwesomeIcon icon={faEnvelope} size="2x" />
+      </a>
+
       <a href="https://apennyeveryweek.wordpress.com/"
       className="wordpress social">
         <FontAwesomeIcon icon={faWordpressSimple} size="2x" />
       </a>
+
+
 
 
     </div>

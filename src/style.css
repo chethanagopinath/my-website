@@ -53,9 +53,11 @@ a.linkedin{
   color:#0077B5;
 }
 
-
+a.email{
+  color: #f1c40f;
+}
 a.github{
-  color:black;
+  color:#000000;
 }
 
 a.wordpress{
