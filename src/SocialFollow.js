@@ -15,7 +15,7 @@ import{
 
 export default function SocialFollow() {
   return (
-    <div class="social-container">
+    <div className="social-container">
 
       <a href="https://github.com/chethanagopinath/"
       className="github social">
