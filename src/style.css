@@ -10,7 +10,7 @@ h1 {
 p{
   font-size: 25px;
   line-height: 35px;
-  text-align: center;
+  text-align: justify;
   margin: 10px 0;
   /* color: #f03f35; */
 }
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 
 body{
   /* background-color: #B7E3E4; */
-  background-color: #fce1e0;
+  /* background-color: #fce1e0; */
   font-family: 'Work Sans', sans-serif;
   font-weight: 300;
 }
@@ -35,32 +35,34 @@ body{
 .social-container {
   padding: 25px 50px;
   align-content: center;
+  text-align: center;
 }
 
 a.social {
   margin: 0 1rem;
   transition: transform 250ms;
   display: inline-block;
+  color:#000000;
 }
 
 a.social:hover {
   transform:translateY(-3px);
 }
 
-a.dev{
+a.dev:hover{
   color:blue;
 }
-a.linkedin{
+a.linkedin:hover{
   color:#0077B5;
 }
 
-a.email{
+a.email:hover{
   color: #f1c40f;
 }
-a.github{
+a.github:hover{
   color:#000000;
 }
 
-a.wordpress{
+a.wordpress:hover{
   color: #444140;
 }
