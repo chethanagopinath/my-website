@@ -3,7 +3,7 @@ import React from "react";
 export default function Content(){
   return(
       <div className="sub-div">
-        <h1>Hello, I'm Chethana</h1>
+        <h1>Hello, I'm Chethana </h1>
         <p>
         I am a CS grad student at SUNY Binghamton, an aspiring software engineer, a problem-solver and a baker. My skills include Ruby, Rails, Python, Java, Javascript, HTML, CSS, MySQL and Git. I have had industry experience in automated testing using Selenium, a bit of Java and Cucumber at Wolters Kluwer ELM Solutions where I worked with clients like Walmart, JPMorgan Chase, Nissan and NCR.
         </p>
