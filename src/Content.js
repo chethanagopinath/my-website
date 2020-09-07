@@ -17,7 +17,7 @@ export default function Content(){
         During my free time, I work on cool side projects to solve problems that I face every day. Currently, I am working on building a Chrome extension called TinyNotes, which is a basic note-taking app that would stay on my new tab window built using Javascript, HTML and CSS. I have also recently joined as a volunteer at <a href = "https://www.womenwhocode.com/python">Women Who Code Python track</a> to help with slack channel moderation and event co-ordination. I try to add value to young, aspiring software engineers such as myself by writing out tiny technical posts at <a href="https://dev.to/">dev.to</a>, which is an incredibly talented community that I came across some time ago.
         </p>
         <p>
-        Please do check out my socials below if you are interested in knowing more about me and thank you for visiting my website! Take care and stay healthy!
+        Please do check out my socials below if you are interested in knowing more about some of my work and reaching out to me. Thank you for visiting my website! Take care and stay healthy!
         </p>
       </div>
   );
