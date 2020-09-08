@@ -4,15 +4,14 @@ import Emoji from "./Emoji";
 export default function Content(){
   return(
       <div className="sub-div">
-        <h1>Hello, I'm Chethana 
-        <Emoji symbol = "🌈" label = "rainbow"/>
+        <h1>Hello, I'm Chethana <Emoji symbol = "🌈" label = "rainbow"/> 
         <Emoji symbol = "✨" label = "sparkles"/>
         </h1>
         <div id="resume-div">
           <a id="resume-link" href = "https://drive.google.com/drive/folders/1Iu9BAvvmFJpdzwZa8i-kkv3J58JJPBYk?usp=sharing" download> Resume </a>
         </div>
         <p>
-        I am a CS grad student at SUNY Binghamton, an aspiring software engineer, a problem-solver and a baker. My skills include Ruby, Rails, Python, Java, Javascript, HTML, CSS, MySQL and Git. I have had industry experience in automated testing using Selenium, a bit of Java and Cucumber at Wolters Kluwer ELM Solutions where I worked with clients like Walmart, JPMorgan Chase, Nissan and NCR.
+        I am a CS grad student at SUNY Binghamton, an aspiring software engineer, a problem-solver and a baker. My skills include Ruby, Rails, Python, Java, Javascript, HTML, CSS, MySQL and Git. I have had industry experience in automated testing using Selenium, a bit of Java and Cucumber at <a className = "links" href = "https://www.wkelmsolutions.com/">Wolters Kluwer ELM Solutions</a> where I worked with clients like Walmart, JPMorgan Chase, Nissan and NCR.
         </p>
         <p>
         Being a budding open-source contributor, I spend my weekends working on beginner-friendly issues in shf-project from AgileVentures, ifme project and other repositories on GitHub which allow me to build up the confidence to contribute more (waiting eagerly for HacktoberFest!) 
