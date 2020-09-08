@@ -1,9 +1,13 @@
 import React from "react";
+import Emoji from "./Emoji";
 
 export default function Content(){
   return(
       <div className="sub-div">
-        <h1>Hello, I'm Chethana 🌈✨</h1>
+        <h1>Hello, I'm Chethana 
+        <Emoji symbol = "🌈" label = "rainbow"/>
+        <Emoji symbol = "✨" label = "sparkles"/>
+        </h1>
         <div id="resume-div">
           <a id="resume-link" href = "https://drive.google.com/drive/folders/1Iu9BAvvmFJpdzwZa8i-kkv3J58JJPBYk?usp=sharing" download> Resume </a>
         </div>
