@@ -38,7 +38,7 @@ body{
 }
 
 .social-container {
-  padding: 25px 0px 25px 0px;
+  padding: 20px 0px 20px 0px;
   align-content: center;
 }
 
@@ -47,6 +47,7 @@ a.social {
   transition: transform 250ms;
   display: inline-block;
   color:#000000;
+  font-size: 35px;
 }
 
 a.social:hover {
@@ -87,7 +88,7 @@ a.wordpress:hover{
 }
 
 #resume-div{
-  margin-bottom: 20px;
+  margin-bottom: 35px;
 }
 
 .links{
