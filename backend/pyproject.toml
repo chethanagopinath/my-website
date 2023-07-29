@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = ""
+authors = ["Chethana Gopinath <cgopina1@binghamton.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Flask = "^2.3.2"
+SQLAlchemy = "^2.0.19"
+psycopg2 = "^2.9.6"
+markdown = "^3.4.4"
+pygments = "^2.15.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
