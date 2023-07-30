@@ -11,7 +11,7 @@ import {
 
 import{
   faEnvelope
-} from "@fortawesome/fontawesome-free-solid";
+} from "@fortawesome/free-solid-svg-icons";
 
 export default function SocialFollow() {
   return (
